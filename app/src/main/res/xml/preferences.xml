@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="1"
+        android:title="Item Name 1"
+        android:summary="Description of item name"
+        android:defaultValue="false" />
+
+    <SwitchPreference
+        android:key="2"
+        android:title="Item Name 2"
+        android:summary="Description of item name 2"
+        android:defaultValue="false" />
+
+    <SwitchPreference
+        android:key="3"
+        android:title="Item Name 3"
+        android:summary="Description of item name 3"
+        android:defaultValue="false" />
+
+
+    <SwitchPreference
+        android:key="4"
+        android:title="Item Name 4"
+        android:summary="Description of item name 4"
+        android:defaultValue="false" />
+
+
+
+</PreferenceScreen>
